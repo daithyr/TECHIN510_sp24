@@ -1,0 +1,2 @@
+# TECHIN510_sp24
+uw GIX spring2024 TECHIN510 repo
